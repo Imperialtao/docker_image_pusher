@@ -1,2 +1,2 @@
 obsidiandynamics/kafdrop:4.2.0
-python:alpine3.19
+python:alpine
